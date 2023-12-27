@@ -1,0 +1,1 @@
+Function-Class: org.ldemetrios.interior.Plugin
